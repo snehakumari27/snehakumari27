@@ -1,4 +1,5 @@
-# Sneha-Kumari
+# ✨ Where Curiosity Meets Code
+
 Hi there! 👋 I'm Sneha Kumari 
 
 I'm a developer who enjoys building practical applications and exploring how AI can solve real-world problems. Currently learning, experimenting, and turning ideas into working projects
